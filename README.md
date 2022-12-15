@@ -13,3 +13,5 @@ Commit9 22.5.0.0
 Commit11 22.6.0.0 -> Intervenção por Branch
 Commit11 22.7.0.0
 Commit11 22.8.0.0
+Commit12 22.8.0.0
+Commit13 22.8.0.0
